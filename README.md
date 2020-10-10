@@ -1,4 +1,4 @@
-# Mestrado - Busca e Otimizacao - Andre Britto
+# Mestrado - Busca e Otimizacao
 
 ### Atividade 01 - Hill-Climbing
 
